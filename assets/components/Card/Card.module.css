@@ -1,0 +1,44 @@
+.profile {
+  margin-top: -2.5rem;
+  width: 80px;
+  border: solid 2px var(--white);
+  padding: 0.01rem;
+  border-radius: 8px;
+}
+
+.photoTop {
+  width: 250px;
+
+}
+
+.content {
+  height: auto;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: solid 1px rgba(0, 0, 0, 0.363);
+  overflow: hidden;
+  border-radius: 8px;
+  padding-bottom: 40px;
+
+
+}
+
+.content h2 {
+  margin: 10px;
+}
+
+a {
+  margin-top: 20px;
+  border-radius: 8px;
+  border: solid 1px lightgray;
+  display: flex;
+  justify-content: center;
+  padding: 4%;
+  width: 80%;
+  /* background-color: red; */
+  text-decoration: none;
+  font-weight: 800;
+
+}

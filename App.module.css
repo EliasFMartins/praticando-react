@@ -1,0 +1,9 @@
+.wrapper{
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 70rem;
+  margin: 2rem auto;
+  padding: 0 1rem;
+
+}

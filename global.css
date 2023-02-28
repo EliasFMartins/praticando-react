@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --black: #121214;
+  --white: #fff;
+  --green: #202024;
+  --green2: #4c4c4c;
+  --green3: #717171;
+  --green4: #979797;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+}
